@@ -10,7 +10,12 @@ You need some dependencies:
 5. PyInstaller
 6. yfinance
 
-After that, run build.bat to compile the source code into executable.
+After that, run build.bat to compile the source code into executable. For Linux / Mac Operation, please replace the name build.bat --> build.sh.
+
+# Already tested on
+- Windows 10 x64
+- Windows 11 x64
+- Ubuntu Unity 20.04 LTS x64
 
 # Team
 - Herendra K (Team Lead, model creation)
